@@ -1,0 +1,19 @@
+body{
+    width: 70%;
+    margin: auto;
+    background: black;
+    color: white;
+}
+h1{
+    font-size: 5rem;
+}
+input{
+    width: 50%;
+    height: 2rem;
+    border-radius: 50px;
+    padding-left: 20px;
+    transition: 0.8s ease;
+}
+input:hover{
+    box-shadow: 5px 0px 15px 5px #ffffff;
+}
