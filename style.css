@@ -17,3 +17,9 @@ input{
 input:hover{
     box-shadow: 5px 0px 15px 5px #ffffff;
 }
+h2{
+    cursor: pointer;
+}
+.checked{
+    color: rgba(255, 255, 255, 0.363);
+}
